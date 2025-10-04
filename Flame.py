@@ -52,7 +52,7 @@ def Flames():
 		elif l[0] == "M":
 			print("Congratulations! Now it’s time to think about family planning 💖, because you both are getting married soon...")			
 		elif l[0] == "E":
-			print("It’s better for you to stay alert… because your crush is your enemy.")
+			print("It’s better for you to stay alert… because your crush is your enemy 😡.")
 		else:
 			print("Oh no... Make your heart strong, because you’ll be shocked to hear this: you two are Siblingsss.......💖 ")	
 
